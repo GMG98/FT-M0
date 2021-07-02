@@ -21,7 +21,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Acá va tu código */
 
 #ejercicioDos {
-    visibility: hidden;
+    display: none;
 }
 
 
@@ -57,7 +57,6 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: flex;
     align-items: center;
     justify-content: space-around;
-    justify-items: center;
 }
 
 
